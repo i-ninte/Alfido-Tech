@@ -1,4 +1,4 @@
-
+#link to the dashboard [https://public.tableau.com/app/profile/kwabena.obeng/viz/WEATHERANALYSIS/Dashboard1]
 ## ABOUT DATASET
 
 ### Understanding and Utilizing Weather Data
