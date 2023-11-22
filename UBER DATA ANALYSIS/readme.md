@@ -4,7 +4,7 @@ Uber offers various types of services, including UberX (standard car), UberXL (l
 
 Uber has gained popularity for its convenience, ease of use, and competitive pricing compared to traditional taxi services. It has expanded its operations to numerous cities around the world and has also introduced other services like food delivery (Uber Eats) and package delivery (Uber Connect).
 
-
+## ABOUT DATASET
 
 1. **START_DATE**: This column contains the date and time when a ride started. It is crucial for analyzing patterns related to the time of day, day of the week, and month.
 
@@ -19,4 +19,6 @@ Uber has gained popularity for its convenience, ease of use, and competitive pri
 6. **MILES**: The MILES column represents the distance traveled during each ride in miles. It is essential for understanding the length of rides and can be used to analyze trends related to trip distance.
 
 7. **PURPOSE**: The PURPOSE column contains information about the purpose of the ride (e.g., business meetings, personal errands). Analyzing this column can provide insights into the primary reasons for rides and may help identify patterns related to specific purposes.
+
+
 
